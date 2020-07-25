@@ -1,0 +1,16 @@
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\Worker\bin\Debug\netcoreapp3.1\Worker.exe
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\Worker\obj\Debug\netcoreapp3.1\Worker.csprojAssemblyReference.cache
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\Worker\obj\Debug\netcoreapp3.1\Worker.AssemblyInfoInputs.cache
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\Worker\obj\Debug\netcoreapp3.1\Worker.AssemblyInfo.cs
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\Worker\bin\Debug\netcoreapp3.1\Worker.deps.json
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\Worker\bin\Debug\netcoreapp3.1\Worker.runtimeconfig.json
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\Worker\bin\Debug\netcoreapp3.1\Worker.runtimeconfig.dev.json
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\Worker\bin\Debug\netcoreapp3.1\Worker.dll
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\Worker\bin\Debug\netcoreapp3.1\Worker.pdb
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\Worker\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\Worker\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\Worker\obj\Debug\netcoreapp3.1\Worker.csproj.CoreCompileInputs.cache
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\Worker\obj\Debug\netcoreapp3.1\Worker.csproj.CopyComplete
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\Worker\obj\Debug\netcoreapp3.1\Worker.dll
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\Worker\obj\Debug\netcoreapp3.1\Worker.pdb
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\Worker\obj\Debug\netcoreapp3.1\Worker.genruntimeconfig.cache

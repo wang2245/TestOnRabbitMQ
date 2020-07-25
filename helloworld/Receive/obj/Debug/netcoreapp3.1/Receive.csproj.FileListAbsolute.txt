@@ -1,0 +1,16 @@
+E:\DotNetLearnTestSource\RabbitMQTest\helloworld\Receive\bin\Debug\netcoreapp3.1\Receive.exe
+E:\DotNetLearnTestSource\RabbitMQTest\helloworld\Receive\obj\Debug\netcoreapp3.1\Receive.csprojAssemblyReference.cache
+E:\DotNetLearnTestSource\RabbitMQTest\helloworld\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfoInputs.cache
+E:\DotNetLearnTestSource\RabbitMQTest\helloworld\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfo.cs
+E:\DotNetLearnTestSource\RabbitMQTest\helloworld\Receive\bin\Debug\netcoreapp3.1\Receive.deps.json
+E:\DotNetLearnTestSource\RabbitMQTest\helloworld\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.json
+E:\DotNetLearnTestSource\RabbitMQTest\helloworld\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.dev.json
+E:\DotNetLearnTestSource\RabbitMQTest\helloworld\Receive\bin\Debug\netcoreapp3.1\Receive.dll
+E:\DotNetLearnTestSource\RabbitMQTest\helloworld\Receive\bin\Debug\netcoreapp3.1\Receive.pdb
+E:\DotNetLearnTestSource\RabbitMQTest\helloworld\Receive\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\DotNetLearnTestSource\RabbitMQTest\helloworld\Receive\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+E:\DotNetLearnTestSource\RabbitMQTest\helloworld\Receive\obj\Debug\netcoreapp3.1\Receive.csproj.CoreCompileInputs.cache
+E:\DotNetLearnTestSource\RabbitMQTest\helloworld\Receive\obj\Debug\netcoreapp3.1\Receive.csproj.CopyComplete
+E:\DotNetLearnTestSource\RabbitMQTest\helloworld\Receive\obj\Debug\netcoreapp3.1\Receive.dll
+E:\DotNetLearnTestSource\RabbitMQTest\helloworld\Receive\obj\Debug\netcoreapp3.1\Receive.pdb
+E:\DotNetLearnTestSource\RabbitMQTest\helloworld\Receive\obj\Debug\netcoreapp3.1\Receive.genruntimeconfig.cache

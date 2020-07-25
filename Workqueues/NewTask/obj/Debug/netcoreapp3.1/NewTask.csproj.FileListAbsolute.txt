@@ -1,0 +1,16 @@
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\NewTask\bin\Debug\netcoreapp3.1\NewTask.exe
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\NewTask\obj\Debug\netcoreapp3.1\NewTask.csprojAssemblyReference.cache
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\NewTask\obj\Debug\netcoreapp3.1\NewTask.AssemblyInfoInputs.cache
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\NewTask\obj\Debug\netcoreapp3.1\NewTask.AssemblyInfo.cs
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\NewTask\bin\Debug\netcoreapp3.1\NewTask.deps.json
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\NewTask\bin\Debug\netcoreapp3.1\NewTask.runtimeconfig.json
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\NewTask\bin\Debug\netcoreapp3.1\NewTask.runtimeconfig.dev.json
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\NewTask\bin\Debug\netcoreapp3.1\NewTask.dll
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\NewTask\bin\Debug\netcoreapp3.1\NewTask.pdb
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\NewTask\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\NewTask\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\NewTask\obj\Debug\netcoreapp3.1\NewTask.csproj.CoreCompileInputs.cache
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\NewTask\obj\Debug\netcoreapp3.1\NewTask.csproj.CopyComplete
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\NewTask\obj\Debug\netcoreapp3.1\NewTask.dll
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\NewTask\obj\Debug\netcoreapp3.1\NewTask.pdb
+E:\DotNetLearnTestSource\RabbitMQTest\Workqueues\NewTask\obj\Debug\netcoreapp3.1\NewTask.genruntimeconfig.cache
