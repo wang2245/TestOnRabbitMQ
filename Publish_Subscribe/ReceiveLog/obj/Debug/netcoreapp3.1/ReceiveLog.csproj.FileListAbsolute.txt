@@ -1,0 +1,4 @@
+E:\DotNetLearnTestSource\RabbitMQTest\Publish_Subscribe\ReceiveLog\bin\Debug\netcoreapp3.1\ReceiveLog.exe
+E:\DotNetLearnTestSource\RabbitMQTest\Publish_Subscribe\ReceiveLog\obj\Debug\netcoreapp3.1\ReceiveLog.csprojAssemblyReference.cache
+E:\DotNetLearnTestSource\RabbitMQTest\Publish_Subscribe\ReceiveLog\obj\Debug\netcoreapp3.1\ReceiveLog.AssemblyInfoInputs.cache
+E:\DotNetLearnTestSource\RabbitMQTest\Publish_Subscribe\ReceiveLog\obj\Debug\netcoreapp3.1\ReceiveLog.AssemblyInfo.cs

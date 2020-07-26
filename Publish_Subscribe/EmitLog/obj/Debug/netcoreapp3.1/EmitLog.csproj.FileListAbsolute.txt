@@ -1,0 +1,4 @@
+E:\DotNetLearnTestSource\RabbitMQTest\Publish_Subscribe\EmitLog\bin\Debug\netcoreapp3.1\EmitLog.exe
+E:\DotNetLearnTestSource\RabbitMQTest\Publish_Subscribe\EmitLog\obj\Debug\netcoreapp3.1\EmitLog.csprojAssemblyReference.cache
+E:\DotNetLearnTestSource\RabbitMQTest\Publish_Subscribe\EmitLog\obj\Debug\netcoreapp3.1\EmitLog.AssemblyInfoInputs.cache
+E:\DotNetLearnTestSource\RabbitMQTest\Publish_Subscribe\EmitLog\obj\Debug\netcoreapp3.1\EmitLog.AssemblyInfo.cs
