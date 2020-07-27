@@ -1,0 +1,4 @@
+E:\DotnetLearn\TestOnRabbitMQ\RPC\RPCServer\bin\Debug\netcoreapp3.1\RPCServer.exe
+E:\DotnetLearn\TestOnRabbitMQ\RPC\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.csprojAssemblyReference.cache
+E:\DotnetLearn\TestOnRabbitMQ\RPC\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.AssemblyInfoInputs.cache
+E:\DotnetLearn\TestOnRabbitMQ\RPC\RPCServer\obj\Debug\netcoreapp3.1\RPCServer.AssemblyInfo.cs

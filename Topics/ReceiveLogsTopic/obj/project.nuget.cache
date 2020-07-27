@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xDDXHObiCpCqILX724tls1GtcIdBn6xkBzNs8h1md58Pk4mHB2gdpv2u9P3NeW4sBrwVqzswabQxoqsAg01azQ==",
+  "success": true,
+  "projectFilePath": "E:\\DotnetLearn\\TestOnRabbitMQ\\Topics\\ReceiveLogsTopic\\ReceiveLogsTopic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ray Wong\\.nuget\\packages\\rabbitmq.client\\6.1.0\\rabbitmq.client.6.1.0.nupkg.sha512",
+    "C:\\Users\\Ray Wong\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Ray Wong\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

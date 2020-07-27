@@ -1,0 +1,16 @@
+E:\DotnetLearn\TestOnRabbitMQ\Routing\ReceiveLogRouting\bin\Debug\netcoreapp3.1\ReceiveLogRouting.exe
+E:\DotnetLearn\TestOnRabbitMQ\Routing\ReceiveLogRouting\obj\Debug\netcoreapp3.1\ReceiveLogRouting.AssemblyInfoInputs.cache
+E:\DotnetLearn\TestOnRabbitMQ\Routing\ReceiveLogRouting\obj\Debug\netcoreapp3.1\ReceiveLogRouting.AssemblyInfo.cs
+E:\DotnetLearn\TestOnRabbitMQ\Routing\ReceiveLogRouting\obj\Debug\netcoreapp3.1\ReceiveLogRouting.csproj.CoreCompileInputs.cache
+E:\DotnetLearn\TestOnRabbitMQ\Routing\ReceiveLogRouting\bin\Debug\netcoreapp3.1\ReceiveLogRouting.deps.json
+E:\DotnetLearn\TestOnRabbitMQ\Routing\ReceiveLogRouting\bin\Debug\netcoreapp3.1\ReceiveLogRouting.runtimeconfig.json
+E:\DotnetLearn\TestOnRabbitMQ\Routing\ReceiveLogRouting\bin\Debug\netcoreapp3.1\ReceiveLogRouting.runtimeconfig.dev.json
+E:\DotnetLearn\TestOnRabbitMQ\Routing\ReceiveLogRouting\bin\Debug\netcoreapp3.1\ReceiveLogRouting.dll
+E:\DotnetLearn\TestOnRabbitMQ\Routing\ReceiveLogRouting\bin\Debug\netcoreapp3.1\ReceiveLogRouting.pdb
+E:\DotnetLearn\TestOnRabbitMQ\Routing\ReceiveLogRouting\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\DotnetLearn\TestOnRabbitMQ\Routing\ReceiveLogRouting\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+E:\DotnetLearn\TestOnRabbitMQ\Routing\ReceiveLogRouting\obj\Debug\netcoreapp3.1\ReceiveLogRouting.csproj.CopyComplete
+E:\DotnetLearn\TestOnRabbitMQ\Routing\ReceiveLogRouting\obj\Debug\netcoreapp3.1\ReceiveLogRouting.dll
+E:\DotnetLearn\TestOnRabbitMQ\Routing\ReceiveLogRouting\obj\Debug\netcoreapp3.1\ReceiveLogRouting.pdb
+E:\DotnetLearn\TestOnRabbitMQ\Routing\ReceiveLogRouting\obj\Debug\netcoreapp3.1\ReceiveLogRouting.genruntimeconfig.cache
+E:\DotnetLearn\TestOnRabbitMQ\Routing\ReceiveLogRouting\obj\Debug\netcoreapp3.1\ReceiveLogRouting.csprojAssemblyReference.cache

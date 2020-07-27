@@ -109,25 +109,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ray\\.nuget\\packages\\": {},
-    "D:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Ray Wong\\.nuget\\packages\\": {},
+    "D:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DotNetLearnTestSource\\RabbitMQTest\\Publish_Subscribe\\ReceiveLog\\ReceiveLog.csproj",
+      "projectUniqueName": "E:\\DotnetLearn\\TestOnRabbitMQ\\Publish_Subscribe\\ReceiveLog\\ReceiveLog.csproj",
       "projectName": "ReceiveLog",
-      "projectPath": "E:\\DotNetLearnTestSource\\RabbitMQTest\\Publish_Subscribe\\ReceiveLog\\ReceiveLog.csproj",
-      "packagesPath": "C:\\Users\\Ray\\.nuget\\packages\\",
-      "outputPath": "E:\\DotNetLearnTestSource\\RabbitMQTest\\Publish_Subscribe\\ReceiveLog\\obj\\",
+      "projectPath": "E:\\DotnetLearn\\TestOnRabbitMQ\\Publish_Subscribe\\ReceiveLog\\ReceiveLog.csproj",
+      "packagesPath": "C:\\Users\\Ray Wong\\.nuget\\packages\\",
+      "outputPath": "E:\\DotnetLearn\\TestOnRabbitMQ\\Publish_Subscribe\\ReceiveLog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "D:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ray Wong\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

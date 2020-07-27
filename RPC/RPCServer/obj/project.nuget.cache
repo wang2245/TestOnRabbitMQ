@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rZ4fkAFEnHxNjFHG4JIZDC4BKkiAiRBYripswEspCkDscTd0JIab6crGhEcNqXxTMj7h2cjhNzqSapAeHK9t1A==",
+  "success": true,
+  "projectFilePath": "E:\\DotnetLearn\\TestOnRabbitMQ\\RPC\\RPCServer\\RPCServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ray Wong\\.nuget\\packages\\rabbitmq.client\\6.1.0\\rabbitmq.client.6.1.0.nupkg.sha512",
+    "C:\\Users\\Ray Wong\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Ray Wong\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
