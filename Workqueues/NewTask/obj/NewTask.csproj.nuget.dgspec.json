@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DotNetLearnTestSource\\RabbitMQTest\\Workqueues\\NewTask\\NewTask.csproj": {}
+    "E:\\DotnetLearn\\TestOnRabbitMQ\\Workqueues\\NewTask\\NewTask.csproj": {}
   },
   "projects": {
-    "E:\\DotNetLearnTestSource\\RabbitMQTest\\Workqueues\\NewTask\\NewTask.csproj": {
+    "E:\\DotnetLearn\\TestOnRabbitMQ\\Workqueues\\NewTask\\NewTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DotNetLearnTestSource\\RabbitMQTest\\Workqueues\\NewTask\\NewTask.csproj",
+        "projectUniqueName": "E:\\DotnetLearn\\TestOnRabbitMQ\\Workqueues\\NewTask\\NewTask.csproj",
         "projectName": "NewTask",
-        "projectPath": "E:\\DotNetLearnTestSource\\RabbitMQTest\\Workqueues\\NewTask\\NewTask.csproj",
-        "packagesPath": "C:\\Users\\Ray\\.nuget\\packages\\",
-        "outputPath": "E:\\DotNetLearnTestSource\\RabbitMQTest\\Workqueues\\NewTask\\obj\\",
+        "projectPath": "E:\\DotnetLearn\\TestOnRabbitMQ\\Workqueues\\NewTask\\NewTask.csproj",
+        "packagesPath": "C:\\Users\\Ray Wong\\.nuget\\packages\\",
+        "outputPath": "E:\\DotnetLearn\\TestOnRabbitMQ\\Workqueues\\NewTask\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ray Wong\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

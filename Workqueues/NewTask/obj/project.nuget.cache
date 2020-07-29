@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "KpWuPx6VAskYCI/wR9hWURkbFFNyJcbscysspn6INwEzjhtvIe83t90ISVVk6kk/Hi8vg+u+G65vBJUoMfrDcA==",
+  "dgSpecHash": "fKB6OvojmWZUh4DkE865QlKRdnNDp4IfDDeJn+UqhjJ9Dc+LrCIvMZHyqzAkg4OrHhKzfdFtDi1gRaY5qPOmfg==",
   "success": true,
-  "projectFilePath": "E:\\DotNetLearnTestSource\\RabbitMQTest\\Workqueues\\NewTask\\NewTask.csproj",
+  "projectFilePath": "E:\\DotnetLearn\\TestOnRabbitMQ\\Workqueues\\NewTask\\NewTask.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ray\\.nuget\\packages\\rabbitmq.client\\6.1.0\\rabbitmq.client.6.1.0.nupkg.sha512",
-    "C:\\Users\\Ray\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
-    "C:\\Users\\Ray\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+    "C:\\Users\\Ray Wong\\.nuget\\packages\\rabbitmq.client\\6.1.0\\rabbitmq.client.6.1.0.nupkg.sha512",
+    "C:\\Users\\Ray Wong\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Ray Wong\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }
